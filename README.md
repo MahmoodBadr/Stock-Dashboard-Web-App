@@ -2,6 +2,8 @@
 
 This project is a stock dashboard web app that allows users to search and obtain quotes for stocks, view financial metrics, and see data visualizations. The app integrates with the Finnhub API to provide real-time stock information and historical chart data.
 
+![Stock Dashboard Screenshot](Stock Dashboard Example.png)
+
 ## Features
 
 - **Search for a Stock**: Easily search for stocks using their ticker symbols (e.g., AAPL, FB, GOOG).
